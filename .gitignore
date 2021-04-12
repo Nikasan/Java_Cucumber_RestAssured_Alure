@@ -1,0 +1,4 @@
+.idea
+.allure/allure-2.4.1
+target
+*.iml
