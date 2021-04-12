@@ -16,7 +16,4 @@ jobs:
         java-version: 16
 
     - name: Build project with Maven
-      run: mvn -B package --file pom.xml
-      
-    -name: Run API tests
-      run: mvn clean test
+      run: mvn -B package --file pom.xml clean test
