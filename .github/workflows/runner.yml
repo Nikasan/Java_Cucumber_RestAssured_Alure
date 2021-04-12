@@ -1,4 +1,4 @@
-name: Maven CI/CD
+name: Test runner job
 
 on:
   workflow_dispatch:
@@ -15,5 +15,5 @@ jobs:
       with:
         java-version: 16
 
-    - name: Build project with Maven
+    - name: Build project with Maven and run test
       run: mvn -B package --file pom.xml clean test
