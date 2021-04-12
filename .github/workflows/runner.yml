@@ -20,12 +20,13 @@ jobs:
     - name: Run tests
       run: mvn -B clean test
       
-    - name: Test marketplace action
-      uses: simple-elf/allure-report-action@master
+    - name: Make Allure report
+      run: mvn io.qameta.allure:allure-maven:report
       if: always()
       id: allure-report
+      
+    - name: Upload result report
+      uses: actions/upload-artifact@v2
       with:
-       allure_results: C:/Users/Veranika_Pekhtserava/Documents/projects/Java_Cucumber_RestAssured_Alure/target/allure-results
-       gh_pages: gh-pages
-       allure_report: allure-report
-       allure_history: C:/Users/Veranika_Pekhtserava/Documents/projects/Java_Cucumber_RestAssured_Alure/target/allure-results
+          name: allure
+          path: target/allure-results
