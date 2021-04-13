@@ -1,4 +1,4 @@
-name: allure-junit5-maven
+name: Java_Cucumber_RestAssured_Alure
 
 on:
   workflow_dispatch:
@@ -20,7 +20,7 @@ jobs:
       - name: Set up JDK
         uses: actions/setup-java@v1
         with:
-          java-version: 11
+          java-version: 16
 
       - name: Install dependencies
         run: mvn dependency:go-offline compile compiler:testCompile
@@ -55,6 +55,7 @@ jobs:
           PERSONAL_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PUBLISH_BRANCH: gh-pages
           PUBLISH_DIR: allure-history
+          
       - name: Post the link to the report
         if: always()
         uses: Sibz/github-status-action@v1
