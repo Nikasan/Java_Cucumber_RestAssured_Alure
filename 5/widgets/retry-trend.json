@@ -7,6 +7,14 @@
     "retry" : 0
   }
 }, {
+  "buildOrder" : 5,
+  "reportUrl" : "https://Nikasan.github.io/Java_Cucumber_RestAssured_Alure/5/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 3,
+    "retry" : 0
+  }
+}, {
   "buildOrder" : 4,
   "reportUrl" : "https://Nikasan.github.io/Java_Cucumber_RestAssured_Alure/4/",
   "reportName" : "Allure Report with history",

@@ -4,11 +4,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 3,
+      "passed" : 4,
       "unknown" : 0,
-      "total" : 3
+      "total" : 4
     },
     "items" : [ {
+      "uid" : "909e4bffc0235127",
+      "reportUrl" : "https://Nikasan.github.io/Java_Cucumber_RestAssured_Alure/5//#testresult/909e4bffc0235127",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618312519287,
+        "stop" : 1618312520190,
+        "duration" : 903
+      }
+    }, {
       "uid" : "d97101045a3e9639",
       "reportUrl" : "https://Nikasan.github.io/Java_Cucumber_RestAssured_Alure/5//#testresult/d97101045a3e9639",
       "status" : "passed",
@@ -42,11 +51,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 3,
+      "passed" : 4,
       "unknown" : 0,
-      "total" : 3
+      "total" : 4
     },
     "items" : [ {
+      "uid" : "8e78fd9175c12560",
+      "reportUrl" : "https://Nikasan.github.io/Java_Cucumber_RestAssured_Alure/5//#testresult/8e78fd9175c12560",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618312520192,
+        "stop" : 1618312520727,
+        "duration" : 535
+      }
+    }, {
       "uid" : "705620a56f67e108",
       "reportUrl" : "https://Nikasan.github.io/Java_Cucumber_RestAssured_Alure/5//#testresult/705620a56f67e108",
       "status" : "passed",
@@ -80,11 +98,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 3,
+      "passed" : 4,
       "unknown" : 0,
-      "total" : 3
+      "total" : 4
     },
     "items" : [ {
+      "uid" : "b0b9a14fbf77b3b0",
+      "reportUrl" : "https://Nikasan.github.io/Java_Cucumber_RestAssured_Alure/5//#testresult/b0b9a14fbf77b3b0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618312514087,
+        "stop" : 1618312519229,
+        "duration" : 5142
+      }
+    }, {
       "uid" : "f803e2af122e88f6",
       "reportUrl" : "https://Nikasan.github.io/Java_Cucumber_RestAssured_Alure/5//#testresult/f803e2af122e88f6",
       "status" : "passed",

@@ -1,4 +1,4 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Tue Apr 13 11:10:57 GMT 2021","Tue Apr 13 11:10:58 GMT 2021","506","","","","","","Send request for getting articles #2",""
-"passed","Tue Apr 13 11:10:52 GMT 2021","Tue Apr 13 11:10:57 GMT 2021","5174","","","","","","Send request for getting articles #1",""
-"passed","Tue Apr 13 11:10:58 GMT 2021","Tue Apr 13 11:10:58 GMT 2021","446","","","","","","Send request for getting articles #3",""
+"passed","Tue Apr 13 11:15:19 GMT 2021","Tue Apr 13 11:15:20 GMT 2021","903","","","","","","Send request for getting articles #2",""
+"passed","Tue Apr 13 11:15:20 GMT 2021","Tue Apr 13 11:15:20 GMT 2021","535","","","","","","Send request for getting articles #3",""
+"passed","Tue Apr 13 11:15:14 GMT 2021","Tue Apr 13 11:15:19 GMT 2021","5142","","","","","","Send request for getting articles #1",""

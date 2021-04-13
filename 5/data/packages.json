@@ -2,39 +2,39 @@
   "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
   "children" : [ {
     "name" : "Send request for getting articles #1",
-    "uid" : "f803e2af122e88f6",
+    "uid" : "b0b9a14fbf77b3b0",
     "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
     "status" : "passed",
     "time" : {
-      "start" : 1618312252577,
-      "stop" : 1618312257751,
-      "duration" : 5174
+      "start" : 1618312514087,
+      "stop" : 1618312519229,
+      "duration" : 5142
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "Send request for getting articles #2",
-    "uid" : "d97101045a3e9639",
+    "uid" : "909e4bffc0235127",
     "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
     "status" : "passed",
     "time" : {
-      "start" : 1618312257790,
-      "stop" : 1618312258296,
-      "duration" : 506
+      "start" : 1618312519287,
+      "stop" : 1618312520190,
+      "duration" : 903
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "Send request for getting articles #3",
-    "uid" : "705620a56f67e108",
+    "uid" : "8e78fd9175c12560",
     "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
     "status" : "passed",
     "time" : {
-      "start" : 1618312258298,
-      "stop" : 1618312258744,
-      "duration" : 446
+      "start" : 1618312520192,
+      "stop" : 1618312520727,
+      "duration" : 535
     },
     "flaky" : false,
     "newFailed" : false,

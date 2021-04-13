@@ -1,30 +1,30 @@
 [ {
-  "uid" : "705620a56f67e108",
-  "name" : "Send request for getting articles #3",
-  "time" : {
-    "start" : 1618312258298,
-    "stop" : 1618312258744,
-    "duration" : 446
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d97101045a3e9639",
+  "uid" : "909e4bffc0235127",
   "name" : "Send request for getting articles #2",
   "time" : {
-    "start" : 1618312257790,
-    "stop" : 1618312258296,
-    "duration" : 506
+    "start" : 1618312519287,
+    "stop" : 1618312520190,
+    "duration" : 903
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "f803e2af122e88f6",
+  "uid" : "8e78fd9175c12560",
+  "name" : "Send request for getting articles #3",
+  "time" : {
+    "start" : 1618312520192,
+    "stop" : 1618312520727,
+    "duration" : 535
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b0b9a14fbf77b3b0",
   "name" : "Send request for getting articles #1",
   "time" : {
-    "start" : 1618312252577,
-    "stop" : 1618312257751,
-    "duration" : 5174
+    "start" : 1618312514087,
+    "stop" : 1618312519229,
+    "duration" : 5142
   },
   "status" : "passed",
   "severity" : "normal"

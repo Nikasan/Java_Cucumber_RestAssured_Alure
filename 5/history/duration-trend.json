@@ -3,6 +3,13 @@
   "reportUrl" : "https://Nikasan.github.io/Java_Cucumber_RestAssured_Alure/5/",
   "reportName" : "Allure Report with history",
   "data" : {
+    "duration" : 6640
+  }
+}, {
+  "buildOrder" : 5,
+  "reportUrl" : "https://Nikasan.github.io/Java_Cucumber_RestAssured_Alure/5/",
+  "reportName" : "Allure Report with history",
+  "data" : {
     "duration" : 6167
   }
 }, {
