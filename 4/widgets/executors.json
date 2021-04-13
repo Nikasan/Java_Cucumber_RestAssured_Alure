@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://Nikasan.github.io/Java_Cucumber_RestAssured_Alure",
+  "buildOrder" : 4,
+  "buildName" : "GitHub Actions Run #744458153",
+  "buildUrl" : "https://github.com/Nikasan/Java_Cucumber_RestAssured_Alure/actions/runs/744458153",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://Nikasan.github.io/Java_Cucumber_RestAssured_Alure/4/"
+} ]
