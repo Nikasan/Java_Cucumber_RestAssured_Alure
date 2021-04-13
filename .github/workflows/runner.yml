@@ -50,17 +50,17 @@ jobs:
 
       - name: Deploy report to Github Pages
         if: always()
-        uses: Nikasan/actions-gh-pages@v2
+        uses: peaceiris/actions-gh-pages@v2
         env:
           PERSONAL_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PUBLISH_BRANCH: gh-pages
           PUBLISH_DIR: allure-history
-      - name: Post the link to the report 
+      - name: Post the link to the report
         if: always()
-        uses: Nikasan/github-status-action@v1
+        uses: Sibz/github-status-action@v1
         with: 
          authToken: ${{secrets.GITHUB_TOKEN}}
          context: 'Test report'
          state: 'success'
          sha: ${{ github.event.pull_request.head.sha }}
-         target_url: Nikasan.github.io/github-allure-history/${{ github.run_number }}
+         target_url: Nikasan.github.io/Java_Cucumber_RestAssured_Alure/${{ github.run_number }}
