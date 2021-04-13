@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Apr 13 07:48:29 GMT 2021","Tue Apr 13 07:48:34 GMT 2021","5237","","","","","","Send request for getting articles #1",""
+"passed","Tue Apr 13 07:48:35 GMT 2021","Tue Apr 13 07:48:35 GMT 2021","154","","","","","","Send request for getting articles #3",""
+"passed","Tue Apr 13 07:48:35 GMT 2021","Tue Apr 13 07:48:35 GMT 2021","655","","","","","","Send request for getting articles #2",""

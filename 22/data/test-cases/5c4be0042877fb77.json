@@ -1,0 +1,44 @@
+{
+  "uid" : "5c4be0042877fb77",
+  "name" : "Send request for getting articles #1",
+  "historyId" : "4ef7b05b1d14eedc576627a6949484d2",
+  "time" : {
+    "start" : 1618300109749,
+    "stop" : 1618300114986,
+    "duration" : 5237
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az132-838"
+  }, {
+    "name" : "thread",
+    "value" : "3001@fv-az132-838.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5c4be0042877fb77.json",
+  "parameterValues" : [ ]
+}
