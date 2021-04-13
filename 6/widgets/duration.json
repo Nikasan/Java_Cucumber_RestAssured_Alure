@@ -1,0 +1,31 @@
+[ {
+  "uid" : "6b0aa3c2fcc0f1b",
+  "name" : "Send request for getting articles #2",
+  "time" : {
+    "start" : 1618312699616,
+    "stop" : 1618312700261,
+    "duration" : 645
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c11f53d5fd76cfaf",
+  "name" : "Send request for getting articles #1",
+  "time" : {
+    "start" : 1618312695017,
+    "stop" : 1618312699579,
+    "duration" : 4562
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "81b1e5dcb4cf1753",
+  "name" : "Send request for getting articles #3",
+  "time" : {
+    "start" : 1618312700267,
+    "stop" : 1618312700516,
+    "duration" : 249
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,44 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "Send request for getting articles #1",
+    "uid" : "c11f53d5fd76cfaf",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1618312695017,
+      "stop" : 1618312699579,
+      "duration" : 4562
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Send request for getting articles #2",
+    "uid" : "6b0aa3c2fcc0f1b",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1618312699616,
+      "stop" : 1618312700261,
+      "duration" : 645
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Send request for getting articles #3",
+    "uid" : "81b1e5dcb4cf1753",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1618312700267,
+      "stop" : 1618312700516,
+      "duration" : 249
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ],
+  "name" : "packages"
+}

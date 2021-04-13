@@ -1,0 +1,91 @@
+{
+  "uid" : "81b1e5dcb4cf1753",
+  "name" : "Send request for getting articles #3",
+  "historyId" : "46d37623ac19a720dbbdcdc818a86983",
+  "time" : {
+    "start" : 1618312700267,
+    "stop" : 1618312700516,
+    "duration" : 249
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az272-9"
+  }, {
+    "name" : "thread",
+    "value" : "3100@fv-az272-9.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 5,
+        "unknown" : 0,
+        "total" : 5
+      },
+      "items" : [ {
+        "uid" : "8e78fd9175c12560",
+        "reportUrl" : "https://Nikasan.github.io/Java_Cucumber_RestAssured_Alure/5//#testresult/8e78fd9175c12560",
+        "status" : "passed",
+        "time" : {
+          "start" : 1618312520192,
+          "stop" : 1618312520727,
+          "duration" : 535
+        }
+      }, {
+        "uid" : "705620a56f67e108",
+        "reportUrl" : "https://Nikasan.github.io/Java_Cucumber_RestAssured_Alure/5//#testresult/705620a56f67e108",
+        "status" : "passed",
+        "time" : {
+          "start" : 1618312258298,
+          "stop" : 1618312258744,
+          "duration" : 446
+        }
+      }, {
+        "uid" : "cfc50a2cd941ec0f",
+        "reportUrl" : "https://Nikasan.github.io/Java_Cucumber_RestAssured_Alure/4//#testresult/cfc50a2cd941ec0f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1618311188569,
+          "stop" : 1618311188748,
+          "duration" : 179
+        }
+      }, {
+        "uid" : "8b9fea06000bb877",
+        "reportUrl" : "https://Nikasan.github.io/Java_Cucumber_RestAssured_Alure/22//#testresult/8b9fea06000bb877",
+        "status" : "passed",
+        "time" : {
+          "start" : 1618300115753,
+          "stop" : 1618300115907,
+          "duration" : 154
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "81b1e5dcb4cf1753.json",
+  "parameterValues" : [ ]
+}
