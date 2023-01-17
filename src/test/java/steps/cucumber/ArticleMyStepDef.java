@@ -1,4 +1,4 @@
-package steps;
+package steps.cucumber;
 
 import implementation.ArticleServiceImpl;
 import io.cucumber.java.en.Given;
